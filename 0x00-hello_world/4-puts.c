@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * Use the function puts
- * You are not allowwed to use printf
- * The program should end with the value 0
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
  */
 
 int main (void)
