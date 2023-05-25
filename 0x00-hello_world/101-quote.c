@@ -1,7 +1,8 @@
 #include <stdio.h>
-#include <unistd.h>
 /*
- * Main - This program illustrates how to escape a special character.
+ * Main - Entry point
+ *
+ * This program illustrates how to escape a special character.
  *
  * Return: 1 Success
  */
