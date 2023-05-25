@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/**
  * Main - Entry point
  *
  * This program illustrates how to escape a special character.
