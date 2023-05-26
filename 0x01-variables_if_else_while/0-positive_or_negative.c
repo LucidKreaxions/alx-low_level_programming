@@ -5,7 +5,7 @@
  * main - Entry point
  *
  * Description: print value of n status; zero, positive or negative
- * 
+ *
  * Return: Always 0 (Success)
  *
  */
@@ -22,6 +22,6 @@ int main(void)
 		printf("%d is zero\n", n);
 	else
 		printf("%d is negative\n", n);
-	
+
 	return (0);
 }
