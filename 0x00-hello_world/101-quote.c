@@ -1,10 +1,11 @@
 #include <stdio.h>
+#include <unistd.h>
 /**
  * Main - Entry point
  *
  * This program illustrates how to escape a special character.
  *
- * Return: Always 1 (Success)
+ * Return: return 1 
  */
 
 int main(void)
