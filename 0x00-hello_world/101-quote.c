@@ -4,7 +4,7 @@
  *
  * This program illustrates how to escape a special character.
  *
- * Return: 1 Success
+ * Return: Always 1 (Success)
  */
 
 int main(void)
