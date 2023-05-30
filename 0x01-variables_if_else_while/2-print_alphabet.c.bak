@@ -3,7 +3,7 @@
 /**
  * main - Entry point
  *
- * Description - this program prints alphabet in lower case
+ * Description - this program prints alphabet in lower case 
  *
  * Loop through the alphabet from a to z and print each letter
  *
