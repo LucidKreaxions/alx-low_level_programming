@@ -1,11 +1,13 @@
 #include <stdio.h>
-/*
- * Main - Entry point
- * This program prints the alphabet in lowercase and then in uppercase
+
+/**
+ * main - Entry point
+ *
+ * Description: This program prints the alphabet in lowercase
+ * and then in uppercase
  *
  * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	char lowercase = 'a';
