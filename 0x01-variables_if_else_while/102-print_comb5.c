@@ -2,7 +2,7 @@
 /**
  * main - Entry point
  * this program prints all possible combinations of two two-digit numbers
- * return: always 0 (success)
+ * Return: Always 0 (success)
  */
 int main(void)
 {
@@ -27,6 +27,5 @@ int main(void)
 			}
 		}
 	}
-	putchar('\n');
 	return (0);
 }
