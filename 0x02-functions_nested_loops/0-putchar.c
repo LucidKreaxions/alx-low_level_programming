@@ -2,9 +2,9 @@
 /**
  * main - Entry point
  * program that prints _putchar followed by \n
- * Result: Always 0 (Success)
+ * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	printf("_putchar\n");
 	return (0);
