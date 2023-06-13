@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * int _isupper - checks whether a letter is uppercase
+ * _isupper - checks whether a letter is uppercase
  *
  * @c: the number being checked
  *
